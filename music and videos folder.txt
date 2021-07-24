@@ -1,0 +1,1 @@
+Create the folders named as music_dir and video_dir and insert your favourite songs nad videos in them. 
